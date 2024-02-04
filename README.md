@@ -1,6 +1,6 @@
 ## 👋Hai! I'm Andrew Shen.. `(=_=)` 
 *Freshman Data Science at UC Irvine*  
-*Developing at Catenary Maps @catenarytransit*  
+*Developer at Catenary Maps @catenarytransit*  
 
 <table border="12px">
  <tr>
